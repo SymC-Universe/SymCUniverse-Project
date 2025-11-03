@@ -6,42 +6,54 @@
 
 ---
 
-### 🧠 Mission
-To unify classical, quantum, biological, and cosmological systems under a single adaptive law —  
-the **Symmetrical Convergence (SymC)** framework, defining stability and information efficiency through critical damping (χ ≡ γ / 2|ω| = 1).
+## 🧭 Mission
+To unify physical, biological, and cognitive systems through the **Symmetrical Convergence (SymC)** framework —  
+a universal critical-damping law governing stability, information flow, and adaptive control across scales.
 
 ---
 
-### 🧩 Research Divisions
-| Division | Repository | Focus |
-|-----------|-------------|--------|
-| **Quantum & Field Theory** | [SymC_QFT_Boundary](https://github.com/SymCUniverse/SymC_QFT_Boundary) | Quantum measurement, decoherence, and field stability |
-| **Classical Mechanics & Control** | [SymC_Classical_Mechanics](https://github.com/SymCUniverse/SymC_Classical_Mechanics) | Oscillatory systems, damping optimization, control theory |
-| **Cosmology & Astrophysics** | [SymC_Cosmology](https://github.com/SymCUniverse/SymC_Cosmology) | Critical damping as dark-energy dynamics |
-| **Medical & Biological Systems** | [SymC_Oncology_Roadmap](https://github.com/SymCUniverse/SymC_Oncology_Roadmap) | Optimal control and adaptive feedback in biological growth |
-| **Adaptive Intelligence Framework** | [SymC_AIF](https://github.com/SymCUniverse/SymC_AIF) | Critical damping in cognitive and machine systems |
-| **Toolkit & Data** | [SymC_Toolkit](https://github.com/SymCUniverse/SymC_Toolkit) | Shared code, figures, LaTeX macros, and datasets |
+## 🔬 Current Publications (Oct–Nov 2025)
+
+| # | Title | DOI |
+|---|-------|-----|
+| 1 | *SymC: A Phenomenological Boundary Postulate for Quantum–Classical Convergence* | [10.5281/zenodo.17427954](https://doi.org/10.5281/zenodo.17427954) |
+| 2 | *No Quantum Gap: Continuous Equilibrium Shift via Critical Damping* | [10.5281/zenodo.17428941](https://doi.org/10.5281/zenodo.17428941) |
+| 3 | *SymC in Quantum Field Theory: The Universal Boundary* | [10.5281/zenodo.17437689](https://doi.org/10.5281/zenodo.17437689) |
+| 4 | *Lindblad Testbed for Symmetrical Convergence* | [10.5281/zenodo.17460574](https://doi.org/10.5281/zenodo.17460574) |
+| 5 | *Adaptive Intelligence Framework (AIF)* | [10.5281/zenodo.17485371](https://doi.org/10.5281/zenodo.17485371) |
+| 6 | *Optimal Control Theory in Oncology (Revised Framework)* | [10.5281/zenodo.17507544](https://doi.org/10.5281/zenodo.17507544) |
+| 7 | *SymC in Cosmology: Dark Energy as Critical Damping* | [10.5281/zenodo.17503753](https://doi.org/10.5281/zenodo.17503753) |
+| 8 | *SymC in Black Hole Structure: Critically Damped Horizons* | [10.5281/zenodo.17508426](https://doi.org/10.5281/zenodo.17508426) |
+| 9 | *Critical Damping in Alzheimer’s and Dementia: A SymC-Guided Cognitive Framework* | [10.5281/zenodo.17508872](https://doi.org/10.5281/zenodo.17508872) |
+| 10 | *Critical Damping in Parkinson’s Disease: A SymC-Guided Motor-Cognitive Framework* | [10.5281/zenodo.17508855](https://doi.org/10.5281/zenodo.17508855) |
 
 ---
 
-### 🧭 Documentation
-- **[SymC Universe – Master Index](https://zenodo.org/records/17494848)**  
-  Overview of all current SymC papers and interlinked DOIs.  
-- **[Open Science Archive (Zenodo)](https://zenodo.org/communities/symcuniverse)**  
-  Peer-review-ready releases, datasets, and supplemental material.
+## 🧩 Core Structure
+
+Each branch applies the χ ≡ γ / 2|ω| = 1 condition to a distinct adaptive domain:
+- **Physics** – quantum, field, cosmological, gravitational stability  
+- **Biology** – cellular growth, immune regulation, neural damping  
+- **Cognition** – information efficiency and feedback control  
 
 ---
 
-### 🔬 Collaboration
-The SymC Universe is an open, evolving research ecosystem.  
-Collaborators and institutions are welcome to participate through open-science principles — transparency, reproducibility, and shared discovery.
+## 🧠 Current Focus
+- Refining the **Universal Postulate** and preparing first journal submissions  
+- Building reproducible simulation code and shared datasets  
+- Establishing the **SymC–AIF Research Execution Protocol** for interdisciplinary modeling
 
 ---
 
-### ⚖️ Licensing
-All repositories are released under **CC BY 4.0** or **MIT License** unless stated otherwise.  
-Attribution is appreciated; replication is encouraged.
+## ⚖️ Licensing
+All works are released under **CC BY 4.0** or **MIT License** unless noted.  
+Attribution encouraged; replication welcomed.
 
 ---
 
-*“Order interpreted from chaos.”*
+## 📬 Contact
+For collaboration or academic correspondence: **SymCUniverse@gmail.com**
+
+> *“Order interpreted from chaos.”*
+
+
